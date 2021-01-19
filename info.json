@@ -1,0 +1,17 @@
+{
+    "keyboard_name": "BMP",
+    "url": "",
+    "maintainer": "flehrad",
+    "width": 2,
+    "height": 1,
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"x":0, "y":0},
+                {"x":0, "y":1},
+                {"x":1, "y":1},
+                {"x":2, "y":1}
+               ]
+        }
+    }
+}
